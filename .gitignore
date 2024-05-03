@@ -31,3 +31,9 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# TDLib files
+libtdjni.so
+app/src/main/java/org/drinkless/tdlib/Client.java
+app/src/main/java/org/drinkless/tdlib/TdApi.java
+javadoc/
