@@ -6,4 +6,7 @@
     -->
     <string name="hello_world">From the Square world,\nHello, %1$s!</string>
     <string name="slogan">Conectando pessoas, Criando laços.</string>
+    <string name="first_login_instruction">Entre no Telegram com Código QR</string>
+    <string name="second_login_instruction">Configurações > Dispositivos > Conectar Desktop</string>
+    <string name="third_login_instruction">Escaneie esta imagem para entrar</string>
 </resources>
