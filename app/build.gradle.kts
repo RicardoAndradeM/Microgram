@@ -71,4 +71,5 @@ dependencies {
     debugImplementation(libs.ui.tooling)
     debugImplementation(libs.ui.test.manifest)
     implementation(libs.material.icons.extended)
+    implementation(libs.core)
 }
